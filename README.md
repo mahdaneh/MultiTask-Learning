@@ -6,4 +6,4 @@ Multitask learning aims at solving a set of related tasks simultaneously, by exp
 
 
 <img src="./tsne_hmnist_all.png"> t-SNE in the feature space of task MNIST in AMTNN W
-for 8K samples. Red: MNIST; blue: MNIST-M; and green: SVHN. As MNIST is more similar to MNIST-M task than SVHN, the samples from these two datasets are palced more nearby in the representation space, learned by our ATMNN.</img>
+for 8K samples.<span style="color:red"> MNIST </span>, <span style="color:blue"> MNIST-M</span>, and <span styole="color:green"> green </span>: SVHN. As MNIST is more similar to MNIST-M task than SVHN, the samples from these two datasets are palced more nearby in the representation space, learned by our ATMNN.</img>

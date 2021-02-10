@@ -6,6 +6,6 @@ Multitask learning aims at solving a set of related tasks simultaneously, by exp
 
 
 
-<img src="./wass_8k.png">Task similarity coefficients<\img>
+<img src="./wass_8k.png">Task similarity coefficients for MNIST, MNIST-M, and SVHN. </img>
 <img src="./tsne_hmnist_all.png"> **The trained representation space by AMTNN Wasserstein
 for MNIST(source task) with red, MNIST-M (a target task with no label data) with blue, and SVHN (another target task with no label data) with green color. As MNIST is more similar to MNIST-M task than SVHN, the samples from MNIST-M are palced more near to the MNIST ones in the representation space, learned by our ATMNN-W**.</img>

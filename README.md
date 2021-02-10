@@ -7,3 +7,4 @@ Multitask learning aims at solving a set of related tasks simultaneously, by exp
 
 <img src="./tsne_hmnist_all.png"> **The trained representation space by AMTNN Wasserstein
 for <span style="color:red">MNIST</span>(source task), <span style="color:red">MNIST-M</span>(target task with no label data), and<span style="color:red">SVHN</span>(target task with no label data). As MNIST is more similar to MNIST-M task than SVHN, the samples from these two datasets are palced more nearby in the representation space, learned by our ATMNN**.</img>
+<font color="red">This is some text!</font>
